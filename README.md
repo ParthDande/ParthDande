@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>About Me : </h1>
-<h2><ul>
+<h3><ul>
   <li>I am a second year Machine Learning and Artificial Intelligence Student.</li>
   <li>Exploring The power of data .</li>
   <li>I can train  Models using  Regression, Classificationi, Support Vector Machine among many others.</li></h2>
-  </ul>
-<br><p style="font-family:verdana">Technology is am currently working on: 
+  </ul></h3>
+<br><h3><p style="font-family:verdana">Technologies I  am currently working on: 
   <ul>
 <li>Neural Networks </li>
-<li>Data Dimentionality reduction.</li></h2>
+<li>Data Dimentionality reduction.</li></h3>
 </ul>
 </p>

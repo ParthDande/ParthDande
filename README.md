@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1>About Me : </h1>
 <h3><ul>
-  <li>I am a second year Machine Learning and Artificial Intelligence Student.</li>
-  <li>Exploring The power of data .</li>
-  <li>I can train  Models using  Regression, Classificationi, Support Vector Machine among many others.</li></h2>
+  <li>I am a second year Machine Learning and Artificial Intelligence Student , exploring the power of data .</li>
+  <li>I can train  Models using  Regression, Classification, Support Vector Machine algorithms among many others.</li></h2>
   </ul></h3>
 <br><h3><p style="font-family:verdana">Technologies I  am currently working on: 
   <ul>

@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 <h1>About Me : </h1>
 <h3><ul>
   <li>I am a second year Machine Learning and Artificial Intelligence Student , exploring the power of data .</li>
-  <li>I can train  Models using  Regression, Classification, Support Vector Machine algorithms among many others.</li></h2>
   </ul></h3>
 <br><h3><p style="font-family:verdana">Technologies I  am currently working on: 
   <ul>
-<li>Neural Networks </li>
-<li>Data Dimentionality reduction.</li></h3>
+<li>Deep Learning Models </li>
+<li>Generative Modeling.</li></h3>
 </ul>
 </p>

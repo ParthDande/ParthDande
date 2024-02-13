@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>About Me : </h1>
 <h3><ul>
-  <li>I am a second year Machine Learning and Artificial Intelligence Student , exploring the power of data .</li>
+  <li>I am a third year Machine Learning and Artificial Intelligence Student , exploring the power of data .</li>
   </ul></h3>
 <br><h3><p style="font-family:verdana">Technologies I  am currently working on: 
   <ul>

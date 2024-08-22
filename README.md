@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About Me : </h1>
-<h3><ul>
-  <li>I am a third year Machine Learning and Artificial Intelligence Student , exploring the power of data .</li>
-  </ul></h3>
-<br><h3><p style="font-family:verdana">Technologies I  am currently working on: 
-  <ul>
-<li>Deep Learning Models </li>
-<li>Generative Modeling.</li></h3>
-</ul>
-</p>
+
+<h1>I am a Final year Machine Learning and Artificial Intelligence Student </h1>
+ 

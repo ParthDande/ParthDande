@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I am a Final year Machine Learning and Artificial Intelligence Student </h1>
+<h1>Software Engineer</h1>
  
